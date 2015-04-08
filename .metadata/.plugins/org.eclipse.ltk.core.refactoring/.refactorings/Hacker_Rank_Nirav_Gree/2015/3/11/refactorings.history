@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;idx&apos; in &apos;MergeTwoSortedArraysInSecond.mergeInOther(...)&apos; to &apos;end_index_of_b&apos;&#x0A;- Original project: &apos;Hacker_Rank_Nirav_Gree&apos;&#x0A;- Original element: &apos;MergeTwoSortedArraysInSecond.mergeInOther(int[], int[], int).idx&apos;&#x0A;- Renamed element: &apos;idx&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;idx&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{MergeTwoSortedArraysInSecond.java[MergeTwoSortedArraysInSecond~mergeInOther~\[I~\[I~I@idx!105!120!109!111!I!0!false" name="end_index_of_b" references="true" stamp="1425850269860" version="1.0"/>
+</session>
