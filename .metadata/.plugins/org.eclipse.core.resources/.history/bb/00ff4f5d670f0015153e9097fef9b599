@@ -1,0 +1,14 @@
+package arrays_and_strings;
+
+public class RotateImage {
+	public static int[][] rotateImage(int[][]a){
+		int b[][]=new int[a.length][a[0].length];
+		int _n_length=a.length-1;
+		for(int i=0;i<=_n_length;i++){
+			for(int j=0;j<_n_length;j++){
+				b[i][j]=a[_n_length-j][i];
+			}
+		}
+		return b;
+	}
+}
