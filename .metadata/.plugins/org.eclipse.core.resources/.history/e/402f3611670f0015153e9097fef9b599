@@ -1,8 +1,0 @@
-package arrays_and_strings;
-
-public class RotateImage {
-	public static rotateImage(int[][]a){
-		int _n_length=a.length-1;
-		for(int i=)
-	}
-}

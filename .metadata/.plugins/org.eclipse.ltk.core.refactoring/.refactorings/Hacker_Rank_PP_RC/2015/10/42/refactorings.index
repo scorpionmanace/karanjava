@@ -1,0 +1,7 @@
+1444524691867	Rename field '_dataItems'
+1444524712018	Rename field 'maxSofar'
+1444524800696	Rename local variable 'n'
+1444524848847	Rename local variable 'numberOfItemsInTheArrayList'
+1444525103230	Rename local variable 'opCounter'
+1444525276280	Rename local variable 'lm'
+1444525316398	Rename method 'performGetAndSet'
